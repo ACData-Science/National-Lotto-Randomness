@@ -97,6 +97,9 @@ Reducing the dataset to smaller time windows marginally improves silhouette scor
 ## Ethical Considerations and Bias
 
 The dataset contains no personal or sensitive data, and privacy risk is minimal. However, gambling-related data carries ethical sensitivity due to the risk of misinterpretation.
+
+“Algorithmic fairness metrics and relevant toolkits may assist you in identifying and mitigating risks of unfair outcomes. However, fairness is not a goal that algorithms can achieve alone. Therefore, you should take a holistic approach, thinking about fairness across different dimensions and not just within the bounds of your model or statistical distributions” (ICO)
+
 Cognitive biases such as the gambler’s fallacy and pattern illusion are addressed by demonstrating weak clustering and balanced frequencies. Methodological bias is mitigated through transparent reporting of low model performance and clear explanation of analytical limitations.
 
 From a governance perspective, the dataset is externally managed and publicly released, meaning version control, data accuracy, and update frequency are outside the analyst’s control. Validation checks are applied at each refresh, and outputs are treated as indicative rather than authoritative. Clear communication of limitations forms part of responsible data governance.
