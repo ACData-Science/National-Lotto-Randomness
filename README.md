@@ -1,4 +1,4 @@
-# Is There a Pattern to the Numbers Drawn in the UK National Lottery?
+# Is there a pattern to the numbers drawn in the UK National Lottery?
 
 ## Introduction
 
